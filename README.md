@@ -1,6 +1,6 @@
 - nom : Locatelli
 - prénom : Enzo
-- URL Netlify :https://6734ac76eb009e0ace4810a8--zippy-phoenix-b4ef27.netlify.app
+- URL Netlify : https://zippy-phoenix-b4ef27.netlify.app/
 
 # Travail
 
