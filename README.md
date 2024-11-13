@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : Locatelli
+- prénom : Enzo
 - URL Netlify :
 
 # Travail
